@@ -5,7 +5,7 @@ I'm a *passionate software developer* with over 7 years of experience in buildin
 - 🌱 I’m learning React Native, Nestjs
 - 👯 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about MERN stack technology 
-- 📫 How to reach me: raj.046.in@gmail.com
+- 📫 How to reach me: raj.crudcook@gmail.com
 - ⚡ Fun fact: I can name all the countries in the world in under 3 minutes!
 
 ---
