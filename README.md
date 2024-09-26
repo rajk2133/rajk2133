@@ -41,6 +41,6 @@ It is a specialized astrological website developed to provide users with compreh
 
 ## 📬 Get in Touch
 
-- Email: raj.crudcook@gmsil.com
+- Email: raj.crudcook@gmail.com
 ---
 
