@@ -10,7 +10,7 @@ I'm a *passionate software developer* with over 3 years of experience in buildin
 
 ---
 
-## 🔧 Technologies & Tools
+### 🔧 Technologies & Tools
 JavaScript
 React
 Node.js
