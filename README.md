@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Raj
 
 ## 🚀 About Me
 I'm a *passionate software developer* with over 3 years of experience in building scalable applications and contributing to open-source. My specialization lies in the MERN stack, and I'm always eager to explore new technologies. I'm open to exciting opportunities and collaborations!
