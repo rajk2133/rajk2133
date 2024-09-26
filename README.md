@@ -32,12 +32,11 @@ Technology Used: React, Express, Node, DynamoDB
 
 ### Travel Website
 It is an advanced travel website designed using Next.js and Tailwind UI, focused on offering a seamless experience for purchasing tour package plans across various travel destinations. The platform enables users to browse, compare, and book travel packages.
-Technology Used: Nextjs, TailwindCSS
+Technology Used: Nextjs, TailwindCSS.
 
 ### Astrological Website
-It is a specialized astrological website developed to provide users with comprehensive information about astrologers, customer testimonials, and easy appointment booking. The platform integrates with Calendly for scheduling consultations and uses PhonePe as a payment gateway for secure transactions, creating a seamless experience for users seeking astrological services.
+It is a specialized astrological website developed to provide users with comprehensive information about astrologers, customer testimonials, and easy appointment booking. The platform integrates with Calendly for scheduling consultations and uses PhonePe as a payment gateway for secure transactions, creating a seamless experience for users seeking astrological services.Technolgies used are Nextjs, TailwindCSS, Calendly API, PhonePe PaymentGateway.
 
-Technology Used: Nextjs, TailwindCSS, CalendlyAPI, PhonePe Payment Gateway.
 ---
 
 ## 📬 Get in Touch
