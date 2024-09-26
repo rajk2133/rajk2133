@@ -41,6 +41,6 @@ It is a specialized astrological website developed to provide users with compreh
 
 ## 📬 Get in Touch
 
-- LinkedIn: [[Your LinkedIn Profile](https://linkedin.com/in/yourusername)](https://www.linkedin.com/in/raj-kumar-4266b3223/)
+- Email: raj.crudcook@gmsil.com
 ---
 
