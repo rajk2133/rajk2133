@@ -28,7 +28,6 @@ Technology Used: React, MUI, Expressjs, Nodejs, AWS DynamoDB.
 
 ### Learning Mangement System
 A Learning Management System (LMS) developed using the MERN stack (MongoDB, Express.js, React, Node.js) that offers an integrated platform for delivering educational content, streaming courses online, and providing additional tools such as a resume builder. 
-
 Technology Used: React, Express, Node, DynamoDB
 
 ### Travel Website
@@ -36,8 +35,9 @@ It is an advanced travel website designed using Next.js and Tailwind UI, focused
 Technology Used: Nextjs, TailwindCSS
 
 ### Astrological Website
-AstroAnsh is a specialized astrological website developed to provide users with comprehensive information about astrologers, customer testimonials, and easy appointment booking. The platform integrates with Calendly for scheduling consultations and uses PhonePe as a payment gateway for secure transactions, creating a seamless experience for users seeking astrological services.
-Technology Used: Nextjs, TailwindCSS, CalendlyAPI, PhonePe Payment Gateway
+It is a specialized astrological website developed to provide users with comprehensive information about astrologers, customer testimonials, and easy appointment booking. The platform integrates with Calendly for scheduling consultations and uses PhonePe as a payment gateway for secure transactions, creating a seamless experience for users seeking astrological services.
+
+Technology Used: Nextjs, TailwindCSS, CalendlyAPI, PhonePe Payment Gateway.
 ---
 
 ## 📬 Get in Touch
