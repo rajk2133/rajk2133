@@ -2,18 +2,18 @@
 
 ## 🚀 About Me
 I'm a *passionate software developer* with over 7 years of experience in building scalable applications and contributing to open-source. My specialization lies in the MERN stack, and I'm always eager to explore new technologies. I'm open to exciting opportunities and collaborations!
-- 🌱 I’m expert in Python - Django, Flask, React Native, Nestjs, NextJs
+- 🌱 I’m expert in Reactjs, React Native, Nestjs, NextJs
 - 👯 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about Backend Architecture.
-- 📫 How to reach me: raj.crudcook@gmail.com
+- 📫 How to reach me: raj.046.in@gmail.com
 - ⚡ Fun fact: I can name all the countries in the world in under 3 minutes!
 
 ---
 
 ### 🔧 Technologies & Tools
-Python - Django & Flask
 JavaScript
 React
+React NAtive
 Node.js
 Express.js
 AWS services (EC2, DynamoDB, S3, Amplify, SES)
@@ -42,6 +42,6 @@ It is a specialized astrological website developed to provide users with compreh
 
 ## 📬 Get in Touch
 
-- Email: raj.crudcook@gmail.com
+- Email: raj.046.in@gmail.com
 ---
 
